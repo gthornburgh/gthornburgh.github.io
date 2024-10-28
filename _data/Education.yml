@@ -4,4 +4,4 @@ icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Loyola Marymount University, BA in Finance
     date: Aug. 2013 - May. 2017
-    image: "assets/img/python.png"
+    image: /assets/img/python.png
