@@ -1,0 +1,12 @@
+subject: Continuing Education
+listing-order: 6
+icon: "/assets/img/graduation-cap.svg"
+contents:
+  - title: Gerogia Institute of Technology, Data Science and Analytics Certificate
+  - description: 6 month boot camp
+    date: Mar. 2020 - Aug.2020
+  - title: Udemy Courses
+  - description:
+  - ETL
+  - Pandas
+  - API
