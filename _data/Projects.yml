@@ -2,21 +2,13 @@ subject: Projects
 listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Pandas Challenge ([https://github.com/gthornburgh/gthornburgh-Pandas-Challenge](https://github.com/gthornburgh/gthornburgh-Pandas-Challenge))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-    image: "![](https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Description
+      - "Technology Used: python, pandas"
+    image: "![](https://as2.ftcdn.net/v2/jpg/02/79/06/27/1000_F_279062737_h0N9fIDZr67shFSUyrZ9PdUQhgrFhnAF.jpg)"
+  - title: ETL
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Description
+      - "Technology Used: extract, transform, load"
+    image: "![](https://www.unite.ai/wp-content/uploads/2022/11/ETL.png)"
