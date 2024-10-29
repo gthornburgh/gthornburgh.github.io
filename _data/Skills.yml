@@ -21,17 +21,17 @@ contents:
       ![devicon](https://miro.medium.com/v2/resize:fit:1200/0*XPiuWWL0s73g4Hx-.png)
       ![devicon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png)
     "
-    - title: Cloud Platforms
-    description: "
-      ![devicon](https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png)
-      ![devicon](https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png)
-      ![devicon](https://e7.pngegg.com/pngimages/834/472/png-clipart-google-cloud-icon-google-cloud-platform-cloud-computing-amazon-web-services-virtual-private-cloud-cloud-computing-text-trademark.png)
-    "
+   # - title: Cloud Platforms
+    #description: "
+   #   ![devicon](https://cdn.icon-icons.com/icons2/2407/PNG/512/aws_icon_146074.png)
+  #    ![devicon](https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png)
+   #   ![devicon](https://e7.pngegg.com/pngimages/834/472/png-clipart-google-cloud-icon-google-cloud-platform-cloud-computing-amazon-web-services-virtual-private-cloud-cloud-computing-text-trademark.png)
+ #   "
   - title: Other Tools
     description: "
-      ![devicon](https://icons.veryicon.com/png/o/miscellaneous/mirror-icon/github-65.png)"
- #     ![devicon](https://e7.pngegg.com/pngimages/743/345/png-clipart-bash-git-computer-icons-installation-command-line-interface-github-text-logo.png)
+      ![devicon](https://icons.veryicon.com/png/o/miscellaneous/mirror-icon/github-65.png)
+      ![devicon](https://e7.pngegg.com/pngimages/743/345/png-clipart-bash-git-computer-icons-installation-command-line-interface-github-text-logo.png)
  #     ![devicon](https://static-00.iconduck.com/assets.00/salesforce-icon-2048x1434-jxt80iiu.png)
  #     ![devicon](https://devtools.in/wp-content/uploads/2022/10/alteryx-with-text.png)
  #     ![devicon](https://cdn.pixabay.com/photo/2023/06/01/12/02/excel-logo-8033473_960_720.png)
- #   "
+    "
