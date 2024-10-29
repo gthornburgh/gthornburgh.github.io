@@ -2,8 +2,8 @@ subject: Experience
 listing-order: 3
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Physician Health Partners
-    role: Data Analyst II
+  - title: Data Analyst II
+    role: Physician Health Partners - Denver, CO
     description:
       - Working in the Healthcare Economics division
       - Analyzing key performance indicators across several different programs
@@ -12,8 +12,8 @@ contents:
       - Preparing monthly and quarterly reporting for our executive team
 
     date: Sept. 2023 - Sept. 2024
-  - title: DaVita
-    role: Data Analyst
+  - title: Data Analyst
+    role: DaVita - Denver, CO
     description: 
       - Worked in the Program Performance lane of DaVita’s Integrated Kidney Care program
       - Tracked various performance metrics for a given patient population
@@ -23,8 +23,8 @@ contents:
       - Presented quarterly performance updates to our payor partners and IKC leadership
 
     date: Oct. 2021 - Sept. 2023
-  - title: NCR Corporation
-    role: Sales Operations Analyst
+  - title: Sales Operations Analyst
+    role: NCR Corp. - Atlanta, GA
     description: 
       - Worked on the Sales Operations Team for NCR’s SMB Hospitality division
       - Assisted sales leadership with reporting & analytics requests
