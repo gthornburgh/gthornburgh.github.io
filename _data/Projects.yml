@@ -8,6 +8,7 @@ contents:
       - Designed Generative algorithm to generate novel human-like content
       - "Technology Used: Rust, Typescript, Python, Ruby"
     image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+    image: "![](https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png)"
   - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
     description: 
       - Universal Command Line Interface for Amazone Web Services
