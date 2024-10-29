@@ -5,33 +5,33 @@ contents:
   - title: Programming Languages
     description: "
       ![devicon](https://cdn3d.iconscout.com/3d/free/thumb/free-sql-3d-icon-download-in-png-blend-fbx-gltf-file-formats--database-data-management-relational-logo-analysis-coding-lang-pack-logos-icons-7578022.png)
-      ![devicon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png)
+      #![devicon](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png)
     "
-  - title: Data Visualization
-    description: "
-      ![devicon](https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489898.png)
-      ![devicon](https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png)
-    "
-  - title: Database Tools
-    description: "
-      ![devicon](https://logos-world.net/wp-content/uploads/2022/11/Snowflake-Emblem.png)
-      ![devicon](https://www.onetrust.com/content/dam/onetrust/brand/content/graphic/thumbnail/integrations/OT-integrations-logo-microsoft-sql-server.png)
-      ![devicon](https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png)
-      ![devicon](https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png)
-      ![devicon](https://miro.medium.com/v2/resize:fit:1200/0*XPiuWWL0s73g4Hx-.png)
-      ![devicon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png)
-    "
-    - title: Cloud Platforms
-    description: "
-      ![devicon](https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png)
-      ![devicon](https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png)
-      ![devicon](https://e7.pngegg.com/pngimages/834/472/png-clipart-google-cloud-icon-google-cloud-platform-cloud-computing-amazon-web-services-virtual-private-cloud-cloud-computing-text-trademark.png)
-    "
-  - title: Other Tools
-    description: "
-      ![devicon](https://icons.veryicon.com/png/o/miscellaneous/mirror-icon/github-65.png)
-      ![devicon](https://e7.pngegg.com/pngimages/743/345/png-clipart-bash-git-computer-icons-installation-command-line-interface-github-text-logo.png)
-      ![devicon](https://static-00.iconduck.com/assets.00/salesforce-icon-2048x1434-jxt80iiu.png)
-      ![devicon](https://devtools.in/wp-content/uploads/2022/10/alteryx-with-text.png)
-      ![devicon](https://cdn.pixabay.com/photo/2023/06/01/12/02/excel-logo-8033473_960_720.png)
-    "
+ # - title: Data Visualization
+ #   description: "
+ #     ![devicon](https://cdn.iconscout.com/icon/free/png-256/free-tableau-icon-download-in-svg-png-gif-file-formats--software-logo-freebies-pack-logos-icons-4489898.png)
+      #![devicon](https://images.datacamp.com/image/upload/v1724169856/image_ff55d03003.png)
+ #   "
+ # - title: Database Tools
+  #  description: "
+  #    ![devicon](https://logos-world.net/wp-content/uploads/2022/11/Snowflake-Emblem.png)
+  #    ![devicon](https://www.onetrust.com/content/dam/onetrust/brand/content/graphic/thumbnail/integrations/OT-integrations-logo-microsoft-sql-server.png)
+  #    ![devicon](https://static-00.iconduck.com/assets.00/database-mysql-icon-1849x2048-81vgyimd.png)
+  #    ![devicon](https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png)
+  #    ![devicon](https://miro.medium.com/v2/resize:fit:1200/0*XPiuWWL0s73g4Hx-.png)
+  #    ![devicon](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/1200px-AirflowLogo.png)
+  #  "
+  #  - title: Cloud Platforms
+  #  description: "
+  #    ![devicon](https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-ptyrjxdo.png)
+  #    ![devicon](https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png)
+ #     ![devicon](https://e7.pngegg.com/pngimages/834/472/png-clipart-google-cloud-icon-google-cloud-platform-cloud-computing-amazon-web-services-virtual-private-cloud-cloud-computing-text-trademark.png)
+ #   "
+ # - title: Other Tools
+ #   description: "
+  #    ![devicon](https://icons.veryicon.com/png/o/miscellaneous/mirror-icon/github-65.png)
+ #     ![devicon](https://e7.pngegg.com/pngimages/743/345/png-clipart-bash-git-computer-icons-installation-command-line-interface-github-text-logo.png)
+ #     ![devicon](https://static-00.iconduck.com/assets.00/salesforce-icon-2048x1434-jxt80iiu.png)
+ #     ![devicon](https://devtools.in/wp-content/uploads/2022/10/alteryx-with-text.png)
+ #     ![devicon](https://cdn.pixabay.com/photo/2023/06/01/12/02/excel-logo-8033473_960_720.png)
+ #   "
