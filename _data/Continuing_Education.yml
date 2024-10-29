@@ -8,6 +8,7 @@ contents:
 
   - title: Udemy Courses
     description:
-    - ETL
-    - Pandas
-    - API
+    - The Complete Python Bootcamp from Zero to Hero
+    - Data Engineering Essentials using SQL, Python and PySpark
+    - Writing Production-Ready ETL Pipelines in Python/Pandas
+    - The Complete DBT (Data Build Tool) Bootcamp
