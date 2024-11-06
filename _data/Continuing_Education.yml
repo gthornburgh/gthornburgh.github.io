@@ -3,8 +3,8 @@ listing-order: 6
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Gerogia Institute of Technology
-    description: Data Science and Analytics Certificate
-    - A 24-week intensive program to acquire skills in Excel, VBA, Python, R, JavaScript, SQL, MongoDB, Tableau, Big Data, and Machine Learning.
+    description:
+    - Data Science and Analytics Certificate
     date: Mar. 2020 - Aug.2020
 
   #- title: Udemy Courses
