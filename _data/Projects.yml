@@ -11,4 +11,5 @@ contents:
     description: 
       - Description
       - "Technology Used: extract, transform, load"
-    image: "![](https://www.unite.ai/wp-content/uploads/2022/11/ETL.png)"
+    #image: "![](https://www.unite.ai/wp-content/uploads/2022/11/ETL.png)"
+    image: "/assets/img/ETL.png"
